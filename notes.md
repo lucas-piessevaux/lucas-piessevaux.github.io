@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "Notes"
-permalink: /notes
+layout: default
 ---
 
 # Notes
