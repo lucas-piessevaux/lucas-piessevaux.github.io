@@ -9,3 +9,5 @@ navigation:
     link: ./index.html
   - name: Notes
     link: ./notes.html
+  - name: Research
+    link: ./research.html
