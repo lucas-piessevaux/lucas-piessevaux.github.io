@@ -1,4 +1,4 @@
-# Aboute Me
+# About Me
 
 I'm a first year PhD student at Stockholm University supervised by [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
 
