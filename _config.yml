@@ -4,3 +4,8 @@ plugins:
 color-scheme: dark
 favicon: true
 title: Homepage of Lucas Piessevaux
+navigation:
+  - name: Home
+    link: ./index.html
+  - name: Notes
+    link: ./notes.html
