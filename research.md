@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Research
 
 ![moss](DSC_6014.JPG)
