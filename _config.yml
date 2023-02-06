@@ -14,3 +14,5 @@ navigation:
     link: ./research.html
   - name: Contact
     link: ./contact.html
+  - name: Music
+    link: ./music.html
