@@ -4,6 +4,8 @@ layout: default
 
 # Notes
 
+![moss](DSC_6077.JPG)
+
 Here are some notes for talks I've given that might be useful.
 
 - **Motivic precursors to synthetic spectra.**
