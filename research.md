@@ -11,5 +11,5 @@ layout: default
 - **Deformations of stable homotopy theory**
 
   This was my master's thesis in which I looked at a filtered model for synthetic spectra.
-  The thesis attempts to construct a universal property for these as a deformation of spectra with a given algebraic fibre, in terms of filtered spectra.
+  The thesis attempts to construct a universal property for these as a deformation of spectra with a given algebraic fibre, in terms of filtered spectra. (pdf forthcoming)
 
