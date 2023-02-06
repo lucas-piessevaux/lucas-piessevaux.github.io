@@ -1,5 +1,3 @@
-# lucas-piessevaux.github.io
-
-## Lucas Piessevaux
+# Lucas Piessevaux
 
 My website
