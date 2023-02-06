@@ -6,7 +6,7 @@ layout: default
 
 ![moss](DSC_6014.JPG)
 
-Here are my past and current research projects.
+#### Here are my past and current research projects.
 
 - **Deformations of stable homotopy theory**
 
