@@ -6,6 +6,5 @@ layout: default
 
 Here are some notes for talks I've given that might be useful.
 
-#### Motivic precursors to synthetic spectra. 
+- [**Motivic precursors to synthetic spectra.**](./motivic precursors writeup.pdf)
 
-[pdf](./motivic precursors writeup.pdf)
