@@ -11,3 +11,5 @@ navigation:
     link: ./notes.html
   - name: Research
     link: ./research.html
+  - name: Contact
+    link: ./contact.html
