@@ -2,6 +2,7 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
   - jekyll-remote-theme
 color-scheme: dark
+platforms: false
 favicon: true
 title: Homepage of Lucas Piessevaux
 navigation:
