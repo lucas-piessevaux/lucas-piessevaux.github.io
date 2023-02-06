@@ -1,6 +1,6 @@
 # About Me
 
-![Meeeeee](DSC_6287.jpg)
+![Meeeeee](DSC_6287.JPG)
 
 I'm a first year PhD student at Stockholm University supervised by [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
 
