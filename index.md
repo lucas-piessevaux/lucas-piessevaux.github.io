@@ -7,6 +7,7 @@ Before that, I finished my master's degree at the Freie Universität Berlin supe
 Before that, I was an undergrad in mathematics and physics at KU Leuven.
 
 A complete CV is available upon request.
+
 **note** as of September 2023, Markus and I will be transferring to the University of Bonn.
 
 **My research interests include**
