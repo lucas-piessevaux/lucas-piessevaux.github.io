@@ -11,3 +11,7 @@ Here's some music I've been enjoying (hopefully updated)
 [Luciano Maggiore — Drenched Thatched Roof](https://edizioniluma.bandcamp.com/album/drenched-thatched-roof)
 
 [Tongue Depressor — Bones For Time](https://worriedsongs.bandcamp.com/album/bones-for-time)
+
+[Havadine Stone — Vague Embry and The Liquid Dwelling](https://reservematinee.bandcamp.com/album/vague-embry-and-the-liquid-dwelling)
+
+[Mien (Yao) Canon singing](https://kinkgong.bandcamp.com/album/mien-yao-canon-singing-in-china-vietnam-laos)
