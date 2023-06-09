@@ -15,3 +15,8 @@ Here's some music I've been enjoying (hopefully updated)
 [Havadine Stone — Vague Embry and The Liquid Dwelling](https://reservematinee.bandcamp.com/album/vague-embry-and-the-liquid-dwelling)
 
 [Mien (Yao) Canon singing](https://kinkgong.bandcamp.com/album/mien-yao-canon-singing-in-china-vietnam-laos)
+
+[T.D. – Violence As Sport: Audile Realizations Of Atrophying Reality](https://www.youtube.com/watch?v=vzTjfzK305s&t=1326s)
+
+[Various — Les Inaudibles](https://oralrecords.bandcamp.com/album/les-inaudibles)
+
