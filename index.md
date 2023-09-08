@@ -3,7 +3,9 @@
 ![Meeeeee](DSC_6287.JPG)
 
 I'm a first year PhD student at the University of Bonn supervised by [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
+
 Before that, I finished my master's degree at the Freie Universität Berlin supervised by [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/).
+
 Before that, I was an undergrad in mathematics and physics at KU Leuven.
 
 A complete CV is available upon request.
