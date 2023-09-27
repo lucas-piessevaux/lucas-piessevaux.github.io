@@ -6,14 +6,15 @@ layout: default
 
 -**Email**
 
-  lucas dot piessevaux at math dot su dot se
+  lucas at math dot uni dash bonn dot de
 
 -**Visiting address**
 
-  Room B1263
-  Albano hus 1
+  Room 1.028
+  Mathematical Institute
+  of the University of Bonn
 
 -**Postal address**
  
-  Matematiska institutionen
-  106 91 Stockholm
+  Endenicher Allee 60
+  D-53115 Bonn, Germany
