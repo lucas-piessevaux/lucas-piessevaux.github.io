@@ -18,4 +18,4 @@ Here's some music I've been enjoying (hopefully updated)
 
 [T.D. – Violence As Sport: Audile Realizations Of Atrophying Reality](https://www.youtube.com/watch?v=vzTjfzK305s&t=1326s)
 
-[Connor Camburn —00U0U_akhnQkunEcw_0CI0pI_600x450](https://pentiments.bandcamp.com/album/00u0u-akhnqkunecw-0ci0pi-600x450)
+[Connor Camburn — 00U0U_akhnQkunEcw_0CI0pI_600x450](https://pentiments.bandcamp.com/album/00u0u-akhnqkunecw-0ci0pi-600x450)
