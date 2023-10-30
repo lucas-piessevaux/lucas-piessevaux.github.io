@@ -8,6 +8,8 @@ title: Homepage of Lucas Piessevaux
 navigation:
   - name: Home
     link: ./index.html
+ - name: Teaching
+    link: ./teaching.html
   - name: Notes
     link: ./notes.html
   - name: Research
