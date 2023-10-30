@@ -10,13 +10,12 @@ Here's some music I've been enjoying (hopefully updated)
 
 [Luciano Maggiore — Drenched Thatched Roof](https://edizioniluma.bandcamp.com/album/drenched-thatched-roof)
 
-[Tongue Depressor — Bones For Time](https://worriedsongs.bandcamp.com/album/bones-for-time)
+[Yan Jun & Shots](https://www.youtube.com/watch?v=BcL3SjsUtuA)
 
 [Havadine Stone — Vague Embry and The Liquid Dwelling](https://reservematinee.bandcamp.com/album/vague-embry-and-the-liquid-dwelling)
 
-[Mien (Yao) Canon singing](https://kinkgong.bandcamp.com/album/mien-yao-canon-singing-in-china-vietnam-laos)
+[Ludovic Medery — L'ombre blanche](https://zappak.bandcamp.com/album/lombre-blanche)
 
 [T.D. – Violence As Sport: Audile Realizations Of Atrophying Reality](https://www.youtube.com/watch?v=vzTjfzK305s&t=1326s)
 
-[Various — Les Inaudibles](https://oralrecords.bandcamp.com/album/les-inaudibles)
-
+[Connor Camburn —00U0U_akhnQkunEcw_0CI0pI_600x450](https://pentiments.bandcamp.com/album/00u0u-akhnqkunecw-0ci0pi-600x450)
