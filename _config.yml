@@ -9,7 +9,7 @@ navigation:
   - name: Home
     link: ./index.html
   - name: Teaching
-    link: ./teaching.html
+    link: ./teaching and seminars.html
   - name: Notes
     link: ./notes.html
   - name: Research
