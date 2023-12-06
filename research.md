@@ -9,7 +9,7 @@ layout: default
 #### Here are my past and current research projects.
 - **An equivariant Adams spectral sequence based on MO**
 
-  My current PhD project. The global spectrum $\mathbf{MO}$ for elementary abelian 2-groups represent the universal equivariant 2-torsion global group law. Further, at the trivial group is associated Hopf algebroid is equivalent to the classical Adams hopf algebroid based on $\mathbb{F}_2$. Their $E_2$-pages are related by a series of Bockstein spectral sequences, which give us a systematic way to produce classes in an equivariant analogue of the Adams $E_2$-page.
+  My current PhD project. The global spectrum **MO** for elementary abelian 2-groups represent the universal equivariant 2-torsion global group law. Further, at the trivial group is associated Hopf algebroid is equivalent to the classical dual Steenrod algebra. Their Adams spectral sequences are related by a series of Bockstein spectral sequences, which give us a systematic way to produce classes in an equivariant analogue of the Adams spectral sequence.
 
 - **Deformations of stable homotopy theory**
 
