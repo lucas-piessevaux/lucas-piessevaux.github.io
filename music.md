@@ -12,10 +12,10 @@ Here's some music I've been enjoying (hopefully updated)
 
 [Yan Jun & Shots](https://www.youtube.com/watch?v=BcL3SjsUtuA)
 
-[Havadine Stone — Vague Embry and The Liquid Dwelling](https://reservematinee.bandcamp.com/album/vague-embry-and-the-liquid-dwelling)
+[Sean Meehan — Magazine]([https://reservematinee.bandcamp.com/album/vague-embry-and-the-liquid-dwelling](https://seanmeehan.bandcamp.com/album/magazine))
 
-[Ludovic Medery — L'ombre blanche](https://zappak.bandcamp.com/album/lombre-blanche)
+[Lisa Ullén — Heirloom]([https://zappak.bandcamp.com/album/lombre-blanche](https://lisaullen.bandcamp.com/album/heirloom))
 
 [T.D. – Violence As Sport: Audile Realizations Of Atrophying Reality](https://www.youtube.com/watch?v=vzTjfzK305s&t=1326s)
 
-[Connor Camburn — 00U0U_akhnQkunEcw_0CI0pI_600x450](https://pentiments.bandcamp.com/album/00u0u-akhnqkunecw-0ci0pi-600x450)
+[Robinson & Robertson — The First Robinson​-​Robertson Game](https://marfalightsrecords.bandcamp.com/album/the-first-robinson-robertson-game)
