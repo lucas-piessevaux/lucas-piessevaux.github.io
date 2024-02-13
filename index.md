@@ -14,6 +14,6 @@ A complete CV is available upon request.
 
 **My research interests include**
 
--Equivariant and global homotopy theory, equivariant generalisations of chromatic homotopy theory, equivariant formal group laws.
+-Equivariant and global homotopy theory, equivariant generalisations of chromatic homotopy theory, equivariant formal groups.
 
--K-theory, motivic cohomology, trace methods, prismatic cohomology.
+-K-theory, motivic cohomology, trace methods, the even filtration and its relation to synthetic spectra and equivariant formal groups.
