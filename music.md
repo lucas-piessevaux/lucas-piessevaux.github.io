@@ -12,9 +12,9 @@ Here's some music I've been enjoying (hopefully updated)
 
 [Yan Jun & Shots](https://www.youtube.com/watch?v=BcL3SjsUtuA)
 
-[Sean Meehan — Magazine]([https://reservematinee.bandcamp.com/album/vague-embry-and-the-liquid-dwelling](https://seanmeehan.bandcamp.com/album/magazine))
+[Sean Meehan — Magazine](https://seanmeehan.bandcamp.com/album/magazine)
 
-[Lisa Ullén — Heirloom]([https://zappak.bandcamp.com/album/lombre-blanche](https://lisaullen.bandcamp.com/album/heirloom))
+[Lisa Ullén — Heirloom](https://lisaullen.bandcamp.com/album/heirloom)
 
 [T.D. – Violence As Sport: Audile Realizations Of Atrophying Reality](https://www.youtube.com/watch?v=vzTjfzK305s&t=1326s)
 
