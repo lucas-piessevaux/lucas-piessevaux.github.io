@@ -12,7 +12,7 @@ layout: default
 
 - **Graduate Seminar on Advanced Topology: Homological Stability**
 
- I'm one of the supervisors for the Graduate Seminar on Advances Topology, co-organised with Markus Hausmann, on the topic of homological stability. The syllabus can be found [here](https://www.math.uni-bonn.de/people/hausmann/Seminar%20Homological%20stability.pdf). 
+  I'm one of the supervisors for the Graduate Seminar on Advances Topology, co-organised with Markus Hausmann, on the topic of homological stability. The syllabus can be found [here](https://www.math.uni-bonn.de/people/hausmann/Seminar%20Homological%20stability.pdf). 
 
 - **TA: Algebraic Topology II**
 
