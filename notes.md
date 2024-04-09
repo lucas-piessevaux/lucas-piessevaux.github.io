@@ -14,6 +14,6 @@ layout: default
 
 - **Rigid analytic coordinates on the stack of one-dimensional formal groups.**
 
-  This is a translation of a [preprint](https://webusers.imj-prg.fr/~laurent.fargues/Chromatique.pdf) by Laurent Fargues (accessed 2024-04-08) on a new rigid analytic description of the overconvergent generic fibre of the mooduli stack of one-dimensional formal groups of finite height. In particular, expressing it as a quotient of a finite dimensional projective space by a group action. The original is in French. [pdf](./Fargues_chromatic_translation.pdf)
+  This is a translation of a [preprint](https://webusers.imj-prg.fr/~laurent.fargues/Chromatique.pdf) by Laurent Fargues (accessed 2024-04-08) on a new rigid analytic description of the overconvergent generic fibre of the mooduli stack of one-dimensional formal groups of finite height. In particular, expressing it as a quotient of a finite dimensional projective space by a group action. The original is in French, thanks to [Thiago Solovera e Nery](https://www.esaga.uni-due.de/thiago.solovera-e-nery/) for mathematical help. [pdf](./Fargues_chromatic_translation.pdf)
    
   
