@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-![moss](DSC_6014.JPG)
+![moss](6014.jpg)
 
 #### Here are my past and current research projects.
 - **An equivariant Adams spectral sequence based on MO**
