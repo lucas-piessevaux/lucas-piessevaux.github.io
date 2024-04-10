@@ -1,6 +1,6 @@
 # About Me
 
-![Meeeeee](DSC_6287.JPG)
+![Meeeeee](6287.jpg)
 
 I'm a first year PhD student at the University of Bonn supervised by [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
 
