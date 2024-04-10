@@ -4,7 +4,7 @@ layout: default
 
 # Notes
 
-![moss](DSC_6077.JPG)
+![moss](6077.jpg)
 
 #### Here are some notes I've written down that might be useful.
 
