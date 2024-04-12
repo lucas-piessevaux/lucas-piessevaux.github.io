@@ -8,11 +8,11 @@ layout: default
 
 - **Power operations on Morava E-theory and transchromatic phenomena**
 
-  [Sil](https://www.math.uni-bonn.de/people/linskens/webpage.htmpl) and I will be organising another reading seminar. The syllabus and more precise information will appear soon.
+  [Sil Linsekns](https://www.math.uni-bonn.de/people/linskens/webpage.htmpl) and I will be organising another reading seminar. The syllabus and more precise information will appear soon.
 
 - **Graduate Seminar on Advanced Topology: Homological Stability**
 
-  I'm one of the supervisors for the Graduate Seminar on Advances Topology, co-organised with Markus Hausmann, on the topic of homological stability. The syllabus can be found [here](https://www.math.uni-bonn.de/people/hausmann/Seminar%20Homological%20stability.pdf). 
+  I'm one of the supervisors for the Graduate Seminar on Advanced Topology, (co-organised with Markus Hausmann) on the topic of homological stability. The syllabus can be found [here](https://www.math.uni-bonn.de/people/hausmann/Seminar%20Homological%20stability.pdf). 
 
 - **TA: Algebraic Topology II**
 
