@@ -12,7 +12,7 @@ layout: default
 
 - **TA: Algebraic Topology II**
 
-  I am the TA for Algebraic Topology II as taught by Liz Tatum and Jack Davies. All necessary information can be found on Jack's [homepage]([https://sites.google.com/view/jackmdavies/home](https://sites.google.com/view/jackmdavies/teaching?authuser=0)).
+  I am the TA for Algebraic Topology II as taught by Liz Tatum and Jack Davies. All necessary information can be found on Jack's [homepage](https://sites.google.com/view/jackmdavies/teaching?authuser=0).
 
 ***WiSe 23/24, Bonn***
 
