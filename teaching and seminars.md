@@ -4,6 +4,12 @@ layout: default
 
 # Teaching and Seminars
 
+***WiSe 24/25, Bonn***
+
+- **Seminar on the Adams Spectral Sequence**
+
+  [Liz Tatum](https://www.math.uni-bonn.de/people/tatum/tatum) and I are organising a reading seminar on the Adams spectral sequence. The first meeting will be on July 18 at 10:00 in room 0.011. The syllabus will be posted here shortly.
+
 ***SoSe 24, Bonn***
 
 - **Graduate Seminar on Advanced Topology: Homological Stability**
