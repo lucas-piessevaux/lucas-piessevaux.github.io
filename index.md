@@ -10,7 +10,8 @@ Before that, I was an undergrad in mathematics and physics at KU Leuven.
 
 A complete CV is available upon request.
 
-**note** from September 2022 to August 2023, Markus and I were at Stockholm University.
+**Note**
+from September 2022 to August 2023, Markus and I were at Stockholm University, please do not use my SU email address as it is closed.
 
 **My research interests include**
 
