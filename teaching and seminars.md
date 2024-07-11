@@ -8,7 +8,7 @@ layout: default
 
 - **Graduate Seminar on Topology: The Adams Spectral Sequence**
 
-  [Liz Tatum](https://www.math.uni-bonn.de/people/tatum/tatum) and I are organising a reading seminar on the Adams spectral sequence. The first meeting will be on July 18 at 10:00 in room 0.011. The preliminary syllabus can be found [here](./Adams_spectral_sequence_syllabus.pdf).
+  [Liz Tatum](https://www.math.uni-bonn.de/people/tatum/tatum) and I are organising a reading seminar on the Adams spectral sequence. The first meeting will be on July 18 at 09:45 (sharp) in room 0.011. The preliminary syllabus can be found [here](./Adams_spectral_sequence_syllabus.pdf).
 
 ***SoSe 24, Bonn***
 
