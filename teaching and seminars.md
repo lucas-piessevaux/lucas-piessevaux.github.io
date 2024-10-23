@@ -14,11 +14,11 @@ layout: default
 
 - **Graduate Seminar on Advanced Topology: Homological Stability**
 
-  I'm one of the supervisors for the Graduate Seminar on Advanced Topology, (co-organised with Markus Hausmann) on the topic of homological stability. The syllabus can be found [here](https://www.math.uni-bonn.de/people/hausmann/Seminar%20Homological%20stability.pdf). 
+  Supervised the Graduate Seminar on Advanced Topology, (co-organised with Markus Hausmann) on the topic of homological stability. The syllabus can be found [here](https://www.math.uni-bonn.de/people/hausmann/Seminar%20Homological%20stability.pdf). 
 
 - **TA: Algebraic Topology II**
 
-  I am the TA for Algebraic Topology II as taught by Liz Tatum and Jack Davies. All necessary information can be found on Jack's [homepage](https://sites.google.com/view/jackmdavies/teaching?authuser=0).
+  TA'd Algebraic Topology II as taught by Liz Tatum and Jack Davies. All necessary information can be found on Jack's [homepage](https://sites.google.com/view/jackmdavies/teaching?authuser=0).
 
 ***WiSe 23/24, Bonn***
 
