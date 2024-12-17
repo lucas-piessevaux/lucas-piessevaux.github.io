@@ -11,7 +11,7 @@ layout: default
 
 - **An equivariant motivic reconstruction theorem at cyclic groups**
 
-Gheorghe—Isaksen—Krause—Ricka construct a filtered model for (cellular, p-complete) motivic spectra over the complex numbers, showing that the latter are intimately relatd to the even filtration and the Adams—Novikov spectral sequence. We investigate whether an analogous comparison result holds in the equivariant setting, where on the motivic side we start with smooth schemes over the complex numbers with an action of the group scheme of n-th roots of unity as described in work of Hoyois and Gepner—Heller. This filtered model relies critically on the good behaviour of the spectrum representing equivariant algebraic cobordism and its "global" functoriality in the choice of group scheme. 
+  Gheorghe—Isaksen—Krause—Ricka construct a filtered model for (cellular, p-complete) motivic spectra over the complex numbers, showing that the latter are intimately relatd to the even filtration and the Adams—Novikov spectral sequence. We investigate whether an analogous comparison result holds in the equivariant setting, where on the motivic side we start with smooth schemes over the complex numbers with an action of the group scheme of n-th roots of unity as described in work of Hoyois and Gepner—Heller. This filtered model relies critically on the good behaviour of the spectrum representing equivariant algebraic cobordism and its "global" functoriality in the choice of group scheme. 
   
 - **An equivariant Adams spectral sequence based on MO**
 
