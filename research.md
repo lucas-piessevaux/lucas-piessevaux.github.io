@@ -9,9 +9,9 @@ layout: default
 #### Here are my past and current research projects.
 ***Current***
 
-- **An equivariant motivic reconstruction theorem**
+- **An equivariant motivic reconstruction theorem at cyclic groups**
 
-  Pstrągowski gives a comparison theorem between cellular motivic spectra over the complex numbers and even synthetic spectra based on complex cobordism, proving that the former can be constructed purely using topology. This proof relies on the good behaviour of algebraic cobordism over the complex numbers and a few fundamental motivic computations. We investigate whether this admits equivariant generalisations, i.e. whether there is an analogous topological reconstruction theorem for cellular motivic spectra over quotient stacks obtained from trivial actions of finite constant group schemes on the complex numbers.
+Gheorghe—Isaksen—Krause—Ricka construct a filtered model for (cellular, p-complete) motivic spectra over the complex numbers, showing that the latter are intimately relatd to the even filtration and the Adams—Novikov spectral sequence. We investigate whether an analogous comparison result holds in the equivariant setting, where on the motivic side we start with smooth schemes over the complex numbers with an action of the group scheme of n-th roots of unity as described in work of Hoyois and Gepner—Heller. This filtered model relies critically on the good behaviour of the spectrum representing equivariant algebraic cobordism and its "global" functoriality in the choice of group scheme. 
   
 - **An equivariant Adams spectral sequence based on MO**
 
