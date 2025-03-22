@@ -10,8 +10,7 @@ layout: default
 
 - **Motivic spectra Oberseminar.**
 
-  These are notes from an Obserminar in Regensburg taught by Marc Hoyois on the topic of motivic spectra (in the sense of Annala—Iwasa and Annala—Hoyois—Iwasa). Mistakes and typos are due to me, some sections and arguments are incomplete. [pdf](./Motivic_Spectra_Notes.pdf)
-
+  These are notes from an Obserminar in Regensburg taught by Marc Hoyois on the topic of motivic spectra (in the sense of Annala—Iwasa and Annala—Hoyois—Iwasa). Mistakes and typos are due to me, some sections and arguments are incomplete. [pdf](./Motivic_Spectra_notes.pdf)
 - **Motivic precursors to synthetic spectra.**
 
   These notes are for a talk in a [reading seminar](https://sites.google.com/view/synthetic-spectra-seminar/) on synthetic spectra at Stockholm University,   In which I introduced the motivic stable homotopy category to homotopy theorists and outlined some key points of the theory of cellular motivic spectra     over the complex numbers. [pdf](./motivic precursors writeup.pdf)
