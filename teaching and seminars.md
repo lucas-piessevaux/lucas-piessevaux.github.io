@@ -6,7 +6,7 @@ layout: default
 
 ***SoSe 25, Bonn***
 
-- **Graduate Seminar on Topology: Tensor-triangular geometry**
+- **Graduate Seminar on Topology: Tensor-triangular Geometry**
 
   [Markus Hausmann](https://www.math.uni-bonn.de/people/hausmann/) and I are organising a reading seminar on tt-geometry. The syllabus can be found [here](./tt_geometry_syllabus.pdf).
 
