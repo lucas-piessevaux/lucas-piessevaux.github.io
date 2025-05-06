@@ -10,6 +10,10 @@ layout: default
 
   [Markus Hausmann](https://www.math.uni-bonn.de/people/hausmann/) and I are organising a reading seminar on tt-geometry. The syllabus can be found [here](./tt_geometry_syllabus.pdf).
 
+- **Reading group: Bordism and Resolution of Singularities**
+
+  I am organising a reading group on [this](https://arxiv.org/pdf/2412.04451) preprint by Abouzaid and Bai with emphasis on the applications to equivariant bordism. Please email me if you would like to participate.
+
 ***WiSe 24/25, Bonn***
 
 - **Graduate Seminar on Topology: The Adams Spectral Sequence**
