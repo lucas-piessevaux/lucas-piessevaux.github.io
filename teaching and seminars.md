@@ -7,6 +7,7 @@ layout: default
 ***Wise 25/26, Bonn***
 
 - **Reading seminar: Motivic homotopy theory**
+  
   [Fabio Neugebauer](https://fneugebauer.github.io/) and I will be organising a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. Details forthcoming
 
 ***SoSe 25, Bonn***
