@@ -6,6 +6,10 @@ layout: default
 
 ***Wise 25/26, Bonn***
 
+- **Reading seminar: Six Functor Formalisms**
+
+  [Kaif Hilman](https://sites.google.com/view/kaif-hilman), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on six functor formalisms as well as some key examples and applications. Details forthcoming 
+
 - **Reading seminar: Motivic homotopy theory**
   
   [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. Details forthcoming
