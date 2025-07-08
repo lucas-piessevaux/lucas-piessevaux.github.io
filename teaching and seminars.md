@@ -8,7 +8,7 @@ layout: default
 
 - **Reading seminar: Motivic homotopy theory**
   
-  [Fabio Neugebauer](https://fneugebauer.github.io/) and I will be organising a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. Details forthcoming
+  [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math) and I will be organising a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. Details forthcoming
 
 ***SoSe 25, Bonn***
 
