@@ -22,7 +22,7 @@ layout: default
 
 - **Reading group: Bordism and Resolution of Singularities**
 
-  O rganised a reading group on [this](https://arxiv.org/pdf/2412.04451) preprint by Abouzaid and Bai with emphasis on the applications to equivariant bordism. 
+  Organised a reading group on [this](https://arxiv.org/pdf/2412.04451) preprint by Abouzaid and Bai with emphasis on the applications to equivariant bordism. 
 
 ***WiSe 24/25, Bonn***
 
