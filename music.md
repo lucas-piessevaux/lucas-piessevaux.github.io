@@ -19,3 +19,7 @@ Here's some music I've been enjoying (hopefully updated)
 [T.D. – Violence As Sport: Audile Realizations Of Atrophying Reality](https://www.youtube.com/watch?v=vzTjfzK305s&t=1326s)
 
 [Vanessa Rossetto — Pictures Of The Warm South](https://erstwhilerecords.bandcamp.com/album/pictures-of-the-warm-south)
+
+[Sun Yizhou / Mai Mai — Table Tennis Club](https://blu-reirecords.bandcamp.com/album/table-tennis-club-2)
+
+[Caroline K — Now Wait For Last Year](https://youtu.be/c5z3yJVjhN4?si=CntGv5hsQWphHVQ7)
