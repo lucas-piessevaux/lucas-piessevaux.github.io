@@ -18,17 +18,17 @@ layout: default
 
 - **Graduate Seminar on Topology: Tensor-triangular Geometry**
 
-  [Markus Hausmann](https://www.math.uni-bonn.de/people/hausmann/) and I are organising a reading seminar on tt-geometry. The syllabus can be found [here](./tt_geometry_syllabus.pdf).
+  [Markus Hausmann](https://www.math.uni-bonn.de/people/hausmann/) and I organised a reading seminar on tt-geometry. The syllabus can be found [here](./tt_geometry_syllabus.pdf).
 
 - **Reading group: Bordism and Resolution of Singularities**
 
-  I am organising a reading group on [this](https://arxiv.org/pdf/2412.04451) preprint by Abouzaid and Bai with emphasis on the applications to equivariant bordism. Please email me if you would like to participate.
+  O rganised a reading group on [this](https://arxiv.org/pdf/2412.04451) preprint by Abouzaid and Bai with emphasis on the applications to equivariant bordism. 
 
 ***WiSe 24/25, Bonn***
 
 - **Graduate Seminar on Topology: The Adams Spectral Sequence**
 
-  [Liz Tatum](https://www.math.uni-bonn.de/people/tatum/tatum) and I are organising a reading seminar on the Adams spectral sequence. The first meeting will be on July 18 at 10:00 in room 0.011. The syllabus can be found [here](./Adams_spectral_sequence_syllabus.pdf). The handout for Talk 3 can be found [here](./Talk_3_handout.pdf).
+  [Liz Tatum](https://www.math.uni-bonn.de/people/tatum/tatum) and I are organised a reading seminar on the Adams spectral sequence. The syllabus can be found [here](./Adams_spectral_sequence_syllabus.pdf). The handout for Talk 3 can be found [here](./Talk_3_handout.pdf).
 
 ***SoSe 24, Bonn***
 
