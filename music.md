@@ -20,6 +20,6 @@ Here's some music I've been enjoying (hopefully updated)
 
 [Vanessa Rossetto — Pictures Of The Warm South](https://erstwhilerecords.bandcamp.com/album/pictures-of-the-warm-south)
 
-[Sun Yizhou / Mai Mai — Table Tennis Club](https://blu-reirecords.bandcamp.com/album/table-tennis-club-2)
+[Sun Yizhou / MAI Mai — Table Tennis Club](https://blu-reirecords.bandcamp.com/album/table-tennis-club-2)
 
 [Caroline K — Now Wait For Last Year](https://youtu.be/c5z3yJVjhN4?si=CntGv5hsQWphHVQ7)
