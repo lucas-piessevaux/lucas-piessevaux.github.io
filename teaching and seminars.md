@@ -8,11 +8,11 @@ layout: default
 
 - **Reading seminar: Six-Functor Formalisms**
 
-  [Kaif Hilman](https://sites.google.com/view/kaif-hilman), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on six-functor formalisms as well as some key examples and applications. A preliminary syllabus can be found [here](./six_functors_syllabus.pdf)
+  [Kaif Hilman](https://sites.google.com/view/kaif-hilman), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on six-functor formalisms as well as some key examples and applications. The syllabus can be found [here](./six_functors_syllabus.pdf)
 
 - **Reading seminar: Motivic homotopy theory**
   
-  [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. Details forthcoming
+  [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. The syllabus can be found [here](./motivic_syllabus.pdf)
 
 ***SoSe 25, Bonn***
 
