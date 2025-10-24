@@ -9,9 +9,9 @@ layout: default
 #### Here are my past and current research projects.
 ***Current***
 
-- **A motivic approach to equivariant synthetic spectra** (j/w Keita Allen)
+- **Synthetic equivariant spectra for finite abelian groups and motivic homotopy theory** (j/w Keita Allen)
 
-  Classically, (even, MU-based) synthetic spectra can equivalently be described in terms of cellular motivic spectra over the complex numbers after completion at a prime. We show that this persists in the equivariant setting at finite cyclic groups by comparing (suitably cellular) equivariant motivic spectra over the complex numbers with a candidate for (even, MU-based) equivariant synthetic spectra that is built to categorify the even filtration. The key technical tool is good control over the equivariant algebraic cobordism spectrum, in particular a sort of global functoriality and a cellular description, that allow us to use the machinery of global group laws and establish vanishing results needed to obtain an analogue of the Chow weight structure and Chow t-structure. A poster with a broad discussion of this project can be found [here](./Piessevaux_bigs_poster.pdf)
+  We apply techniques from global homotopy theory in the setting of equivariant motivic homotopy theory to obtain a structural description of the cellular subcategory. After completion at a prime, we show that this category is entirely topological, in that it is equivalent to the completion of synthetic equivariant spectra. The latter are an appropriate generalisation of syntehtic spectra to the equivariant setting: they give rise to a perfect even filtration on equivariant spectra, are related to (and in fact determined by) the equivariant Adams--Novikov spectral sequence, and form a one-parameter deformation with special fibre living over the moduli stack of equivariant formal groups. [arXiv](https://arxiv.org/abs/2510.20197). An early poster with a more broad-audience discussion can be found [here](./Piessevaux_bigs_poster.pdf)
    
   
 - **An equivariant Adams spectral sequence based on MO**
