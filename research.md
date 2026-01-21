@@ -9,14 +9,14 @@ layout: default
 #### Here are my past and current research projects.
 ***Current***
 
+- **Synthetic isotropy separation**
+
+  We lift the familiar technique of isotropy separation from genuine equivariant spectra to the synthetic setting, in accordance with equivariant motivic homotopy theory. In particular, we lift the tom Dieck splitting to a splitting on the level of Adams--Novikov spectral sequences. (Forthcoming)
+
 - **Synthetic equivariant spectra for finite abelian groups and motivic homotopy theory** (j/w Keita Allen)
-
-  We apply techniques from global homotopy theory in the setting of equivariant motivic homotopy theory to obtain a structural description of the cellular subcategory. After completion at a prime, we show that this category is entirely topological, in that it is equivalent to the completion of synthetic equivariant spectra. The latter are an appropriate generalisation of syntehtic spectra to the equivariant setting: they give rise to a perfect even filtration on equivariant spectra, are related to (and in fact determined by) the equivariant Adams--Novikov spectral sequence, and form a one-parameter deformation with special fibre living over the moduli stack of equivariant formal groups. [arXiv](https://arxiv.org/abs/2510.20197). An early poster with a more broad-audience discussion can be found [here](./Piessevaux_bigs_poster.pdf)
-   
   
-- **An equivariant Adams spectral sequence based on MO**
-
-  The global spectrum **MO** for elementary abelian 2-groups represent the universal equivariant 2-torsion global group law. Further, at the trivial group its associated Hopf algebroid is equivalent to the classical dual Steenrod algebra. Their respective Adams spectral sequences are related by a series of Bockstein spectral sequences, which give us a systematic way to produce classes in an equivariant analogue of the Adams spectral sequence. A poster with a broad discussion of this project can be found [here](./Piessevaux_poster.pdf).
+  We analyse an appropriate cellular subcategory of equivariant motivic spectra over the complex numbers and show that (after completion at an arbitrary prime) this is equivalent to a suitable category of synthetic equivariant spectra, which categorifies an equivariant version of the perfect even filtration which we further relate to the Adams--Novikov spectral sequence. The key input in this motivic comparison argument is a description of the homotopy groups of torus-equivariant algebraic cobordism which we deduce using global methods.
+   [arXiv](https://arxiv.org/abs/2510.20197). An early research poster with a more accessible discussion can be found [here](./Piessevaux_bigs_poster.pdf)
   
 ***Past***
 - **Deformations of stable homotopy theory**
