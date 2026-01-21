@@ -8,17 +8,17 @@ layout: default
 
 - **Reading seminar: Six-Functor Formalisms**
 
-  [Kaif Hilman](https://sites.google.com/view/kaif-hilman), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on six-functor formalisms as well as some key examples and applications. The syllabus can be found [here](./six_functors_syllabus.pdf)
+  [Kaif Hilman](https://sites.google.com/view/kaif-hilman), [Qi Zhu](https://qizhumath.wixsite.com/math), and I are running a reading seminar on six-functor formalisms as well as some key examples and applications. The syllabus can be found [here](./six_functors_syllabus.pdf)
 
 - **Reading seminar: Motivic homotopy theory**
   
-  [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math), and I will be organising a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. The syllabus can be found [here](./motivic_syllabus.pdf)
+  [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math), and I are running a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. The syllabus can be found [here](./motivic_syllabus.pdf)
 
 ***SoSe 25, Bonn***
 
 - **Graduate Seminar on Topology: Tensor-triangular Geometry**
 
-  [Markus Hausmann](https://www.math.uni-bonn.de/people/hausmann/) and I organised a reading seminar on tt-geometry. The syllabus can be found [here](./tt_geometry_syllabus.pdf).
+  Markus Hausmann and I organised a reading seminar on tt-geometry. The syllabus can be found [here](./tt_geometry_syllabus.pdf).
 
 - **Reading group: Bordism and Resolution of Singularities**
 
@@ -28,7 +28,7 @@ layout: default
 
 - **Graduate Seminar on Topology: The Adams Spectral Sequence**
 
-  [Liz Tatum](https://www.math.uni-bonn.de/people/tatum/tatum) and I are organised a reading seminar on the Adams spectral sequence. The syllabus can be found [here](./Adams_spectral_sequence_syllabus.pdf). The handout for Talk 3 can be found [here](./Talk_3_handout.pdf).
+  Liz Tatum and I organised a reading seminar on the Adams spectral sequence. The syllabus can be found [here](./Adams_spectral_sequence_syllabus.pdf). The handout for Talk 3 can be found [here](./Talk_3_handout.pdf).
 
 ***SoSe 24, Bonn***
 
@@ -44,7 +44,7 @@ layout: default
 
 - **Synthetic Spectra and the Even Filtration**
 
-  Organised a reading seminar on synthetic spectra and the even filtration with [Sil Linskens](https://www.math.uni-bonn.de/people/linskens/webpage.htmpl). The syllabus and programme can be found [here](https://www.math.uni-bonn.de/people/linskens/Synthetic_syllabus.pdf
+  Organised a reading seminar on synthetic spectra and the even filtration with Sil Linskens. The syllabus and programme can be found [here](https://www.math.uni-bonn.de/people/linskens/Synthetic_syllabus.pdf
   )
 - **Tutor: Algebraic Topology I**
 
