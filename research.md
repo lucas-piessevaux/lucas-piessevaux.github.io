@@ -11,7 +11,7 @@ layout: default
 
 - **Synthetic isotropy separation**
 
-  We lift the familiar technique of isotropy separation from genuine equivariant spectra to the synthetic setting, in accordance with equivariant motivic homotopy theory. In particular, we lift the tom Dieck splitting to a splitting on the level of Adams--Novikov spectral sequences. (Forthcoming)
+  We lift the familiar technique of isotropy separation from genuine equivariant spectra to the synthetic setting, in accordance similar constructions in equivariant motivic homotopy theory. In particular, we lift the tom Dieck splitting to a splitting on the level of Adams--Novikov spectral sequences and exhibit a vanishing line in the integer-graded equivariant ANSS. (Forthcoming)
 
 - **Synthetic equivariant spectra for finite abelian groups and motivic homotopy theory** (j/w Keita Allen)
   
