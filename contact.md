@@ -11,13 +11,10 @@ layout: default
 -**Visiting address**
 
   Room 4.017
-  
   Mathematical Institute
-  
   of the University of Bonn
 
 -**Postal address**
  
   Endenicher Allee 60
-  
-  D-53115 Bonn, Germany
+  53115 Bonn, Germany
