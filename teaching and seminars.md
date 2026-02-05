@@ -4,15 +4,21 @@ layout: default
 
 # Teaching and Seminars
 
+***SoSe 26, Bonn***
+
+- **Reading seminar: The Cobordism Hypothesis**
+
+  [Branko Juran](https://brankoj.gitlab.io/), [Christian Kremer](https://sites.google.com/view/christian-kremer-math), and I will run a reading seminar on the cobordism hypothesis following Lurie's exposition. The syllabus will appear soon.
+
 ***Wise 25/26, Bonn***
 
 - **Reading seminar: Six-Functor Formalisms**
 
-  [Kaif Hilman](https://sites.google.com/view/kaif-hilman), [Qi Zhu](https://qizhumath.wixsite.com/math), and I are running a reading seminar on six-functor formalisms as well as some key examples and applications. The syllabus can be found [here](./six_functors_syllabus.pdf)
+  [Kaif Hilman](https://sites.google.com/view/kaif-hilman), [Qi Zhu](https://qizhumath.wixsite.com/math), and I ran a reading seminar on six-functor formalisms as well as some key examples and applications. The syllabus can be found [here](./six_functors_syllabus.pdf)
 
 - **Reading seminar: Motivic homotopy theory**
   
-  [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math), and I are running a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. The syllabus can be found [here](./motivic_syllabus.pdf)
+  [Fabio Neugebauer](https://fneugebauer.github.io/), [Qi Zhu](https://qizhumath.wixsite.com/math), and I ran a reading seminar on motivic homotopy theory, starting from scratch and covering the Hopkins—Morel—Hoyois theorem among others. The syllabus can be found [here](./motivic_syllabus.pdf)
 
 ***SoSe 25, Bonn***
 
