@@ -8,7 +8,7 @@ layout: default
 
 - **Reading seminar: The Cobordism Hypothesis**
 
-  [Branko Juran](https://brankoj.gitlab.io/), [Christian Kremer](https://sites.google.com/view/christian-kremer-math), and I will run a reading seminar on the cobordism hypothesis following Lurie's exposition. The syllabus will appear soon.
+  [Branko Juran](https://brankoj.gitlab.io/), [Christian Kremer](https://sites.google.com/view/christian-kremer-math), and I will run a reading seminar on the cobordism hypothesis following Lurie's exposition. The syllabus can be found [here](./cobordism_syllabus.pdf).
 
 ***Wise 25/26, Bonn***
 
