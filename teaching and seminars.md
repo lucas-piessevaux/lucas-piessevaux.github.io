@@ -6,7 +6,11 @@ layout: default
 
 ***SoSe 26, Bonn***
 
-- **Reading seminar: The Cobordism Hypothesis**
+- **Reading seminar: Prismatic F-Gauges**
+
+  I'll be running a reading seminar on Prismatic F-Gauges following Bhatt's lecture notes. Syllabus forthcoming.
+
+- **Graduate Seminar on Topology: The Cobordism Hypothesis**
 
   [Branko Juran](https://brankoj.gitlab.io/), [Christian Kremer](https://sites.google.com/view/christian-kremer-math), and I will run a reading seminar on the cobordism hypothesis following Lurie's exposition. The syllabus can be found [here](./cobordism_syllabus.pdf).
 
