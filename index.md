@@ -20,6 +20,9 @@ A complete CV is available upon request.
 **My research interests:**
 
 I am broadly interested in ((chromatic) equivariant) stable homotopy, studied through the lens of synthetic/motivic/even filtered techniques. Examples of this word salad include the following
+
 -The interaction between the even filtration and (global) equivariance, as mediated by equivariant motivic homotopy theory.
+
 -The geometry of oriented global group laws (an "elliptic" style decompletion of the Quillen formal group on an even ring spectrum).
+
 -Geometric representation theory over complex bordism or the sphere spectrum.
