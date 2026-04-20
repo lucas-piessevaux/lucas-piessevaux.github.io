@@ -12,14 +12,14 @@ Starting in October 2026, I'll be a postdoc at Mathematics Münster in the conte
 
 ***Previously,***
 
-Before that, I finished my master's degree at the Freie Universität Berlin supervised by [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/).
+I finished my master's degree at the Freie Universität Berlin supervised by [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/).
 Before that, I was an undergrad in mathematics and physics at KU Leuven.
 
 A complete CV is available upon request.
 
 **My research interests:**
 
-I am broadly interested in ((chromatic) equivariant) stable homotopy, studied through the lens of synthetic/motivic/even filtered techniques. Examples include the following:
+I am broadly interested in ((chromatic) equivariant) stable homotopy theory, studied through the lens of synthetic/motivic/even filtered techniques. Examples include the following:
 
 -The interaction between the even filtration and (global) equivariance, as mediated by equivariant motivic homotopy theory.
 
