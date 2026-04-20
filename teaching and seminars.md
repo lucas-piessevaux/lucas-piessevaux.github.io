@@ -14,7 +14,7 @@ layout: default
 
   [Branko Juran](https://brankoj.gitlab.io/), [Christian Kremer](https://sites.google.com/view/christian-kremer-math), and I will run a reading seminar on the cobordism hypothesis following Lurie's exposition. The syllabus can be found [here](./complete_proof_of_cobordism_hypothesis.pdf).
 
-***Wise 25/26, Bonn***
+***WiSe 25/26, Bonn***
 
 - Reading seminar: Six-Functor Formalisms ([syllabus](./six_functors_syllabus.pdf))
 
