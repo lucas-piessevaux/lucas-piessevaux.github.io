@@ -8,7 +8,7 @@ layout: default
 
 - **Reading seminar: Prismatic F-Gauges**
 
-  I'll be running a reading seminar on Prismatic F-Gauges following Bhatt's lecture notes. Preliminary syllabus [here](./fgauges_syllabus.pdf).
+  I'll be running a reading seminar on Prismatic F-Gauges following Bhatt's lecture notes. Preliminary syllabus [here](./fgauges_syllabus.pdf). My talk notes are [here](./prismatic_notes.pdf).
 
 - **Graduate Seminar on Topology: The Cobordism Hypothesis**
 
