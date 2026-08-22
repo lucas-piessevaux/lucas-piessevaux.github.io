@@ -11,7 +11,7 @@ layout: default
 
 - **Synthetic isotropy separation**
 
-  We lift the theory of isotropy separation to the level of synthetic equivariant spectra, allowing us to reduce questions about the equivariant Adams--Novikov spectral sequence to nonequivariant information by means of iterated recollements. As a first application, we express the equivariant Adams--Novikov spectral sequence (for a finite abelian group) in terms of motivic stable homotopy groups of étale classifying spaces using a synthetic tom Dieck splitting and confirm the existence of a vanishing line of slope and intercept zero resolving a conjecture of Carrick. Second, we revisit the theory of the filtered circle (à la Raksit, Antieau--Riggenbach, etc.) as a Borel completion of the theory of genuine synthetic circle-equivariant spectra. This is part of my thesis work and will be uploaded soon.
+  We lift the theory of isotropy separation to the level of synthetic equivariant spectra, allowing us to reduce questions about the equivariant Adams--Novikov spectral sequence to nonequivariant information by means of iterated recollements. As a first application, we express the equivariant Adams--Novikov spectral sequence (for a finite abelian group) in terms of motivic stable homotopy groups of étale classifying spaces using a synthetic tom Dieck splitting and confirm the existence of a vanishing line of slope one and intercept zero, resolving a conjecture of Carrick. Second, we revisit the theory of the filtered circle (à la Raksit, Antieau--Riggenbach, etc.) as a Borel completion of the theory of genuine synthetic circle-equivariant spectra. This is part of my thesis work and will be uploaded soon.
 
 ***Past***
 
