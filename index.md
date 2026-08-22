@@ -15,7 +15,7 @@ Starting in October 2026, I'll be a postdoc at Mathematics Münster in the conte
 I finished my master's degree at the Freie Universität Berlin supervised by [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/).
 Before that, I was an undergrad in mathematics and physics at KU Leuven.
 
-A complete CV is available upon request.
+A CV can be found [here](./CV_Piessevaux.pdf).
 
 **My research interests:**
 
