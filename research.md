@@ -15,6 +15,9 @@ layout: default
 
 ***Past***
 
+- **Synthetic equivariant spectra and complex bordism** (PhD thesis).
+  My thesis, which is essentially a pushout of ↓ this and ↑ that. [pdf](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14463).
+
 - **Synthetic equivariant spectra for finite abelian groups and motivic homotopy theory** (j/w Keita Allen)
   
   We analyse an appropriate cellular subcategory of equivariant motivic spectra over the complex numbers and show that (after completion at an arbitrary prime) this is equivalent to a suitable category of synthetic equivariant spectra, which categorifies an equivariant version of the perfect even filtration which we further relate to the Adams--Novikov spectral sequence. The key input in this motivic comparison argument is a description of the homotopy groups of torus-equivariant algebraic cobordism which we deduce using global methods.
