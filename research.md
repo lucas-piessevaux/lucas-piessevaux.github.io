@@ -16,7 +16,7 @@ layout: default
 ***Past***
 
 - **Synthetic equivariant spectra and complex bordism** (PhD thesis).
-- 
+  
   My thesis, which is essentially a pushout of the motivic thing ↓ and the isotropy separation thing ↑. [pdf](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14463).
 
 - **Synthetic equivariant spectra for finite abelian groups and motivic homotopy theory** (j/w Keita Allen)
