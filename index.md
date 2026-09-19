@@ -4,7 +4,7 @@
 
 ***Presently,***
 
-I'm a third year PhD student at the University of Bonn supervised by [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
+I obtained my PhD at the University of Bonn under the supervision of [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
 
 ***Forthcomingly,***
 
