@@ -4,15 +4,13 @@
 
 ***Presently,***
 
-I obtained my PhD at the University of Bonn under the supervision of [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
+I am a postdoc at Mathematics Münster working in as part of a Young Research Group joint with [Anish Chedalavada](https://aragogh.github.io/) and [Florian Riedel](https://spectralscheme.gitlab.io/).
 
-***Forthcomingly,***
-
-Starting in October 2026, I'll be a postdoc at Mathematics Münster in the context of a Young Research Group joint with [Anish Chedalavada](https://aragogh.github.io/) and [Florian Riedel](https://spectralscheme.gitlab.io/).
 
 ***Previously,***
 
-I finished my master's degree at the Freie Universität Berlin supervised by [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/).
+I obtained my PhD at the University of Bonn under the supervision of [Markus Hausmann](https://staff.math.su.se/markus.hausmann/).
+Before that, I finished my master's degree at the Freie Universität Berlin supervised by [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/).
 Before that, I was an undergrad in mathematics and physics at KU Leuven.
 
 A CV can be found [here](./CV_Piessevaux.pdf).
