@@ -4,7 +4,7 @@
 
 ***Presently,***
 
-I am a postdoc at Mathematics Münster working in as part of a Young Research Group joint with [Anish Chedalavada](https://aragogh.github.io/) and [Florian Riedel](https://spectralscheme.gitlab.io/).
+I am a postdoc at Mathematics Münster as part of a Young Research Group joint with [Anish Chedalavada](https://aragogh.github.io/) and [Florian Riedel](https://spectralscheme.gitlab.io/).
 
 
 ***Previously,***
