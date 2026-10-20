@@ -4,6 +4,11 @@ layout: default
 
 # Teaching and Seminars
 
+***WiSe 27/27, Münster***
+
+- Kleines seminar: the Motivic filtration on TC ([preliminary syllabus](./motivic_filtration_syllabus.pdf))\
+    Co-organised with Anish Chedalavada, Florian Riedel.
+
 ***SoSe 26, Bonn***
 
 - Reading seminar: Prismatic F-Gauges ([syllabus](./fgauges_syllabus.pdf))
