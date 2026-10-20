@@ -6,9 +6,13 @@ layout: default
 
 -**Email**
 
-  firstname dot lastname at gmail dot com
+  firstname dot lastname at uni dash muenster dot de
 
 -**Visiting address**
 
-  stay tuned
+  Dr. Lucas Piessevaux
+  Mathematisches Institut
+  Fachbereich Mathematik und Informatik der Universität Münster
+  Orléans-Ring 12
+
   
